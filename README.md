@@ -8,5 +8,8 @@ Experimental results have pointed out that the dendritic tree of spinal motoneur
 1. Elias L.A. and Kohn A.F. (2013) Individual and collective properties of computationally efficient motoneuron models of types S and F with active dendrites. **Neurocomputing**, 99: 521-533. <a href="http://dx.doi.org/10.1016/j.neucom.2012.06.038" target="_blank">[doi]</a>
 2. Elias L.A., Chaud V.M., and Kohn A.F. (2012) Models of passive and active dendrite motoneuron pools and their differences in muscle force control. **Journal of Computational Neuroscience**, 33(3): 515-531. <a href="http://dx.doi.org/10.1007/s10827-012-0398-4" target="_blank">[doi]</a>
 
+# Funding
+This project was fully funded by [FAPESP](http://www.fapesp.br/) (project no. <a href="http://www.bv.fapesp.br/en/bolsas/109027/computer-simulation-of-motoneuron-behavior-with-passive-and-active-dendrites-in-response-to-synaptic/" target="_blank">2007/05898-4</a>)
+
 # License
 This software is licensed under the [GNU License v3](LICENSE).
