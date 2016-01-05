@@ -9,4 +9,4 @@ Experimental results have pointed out that the dendritic tree of spinal motoneur
 2. Elias L.A., Chaud V.M., and Kohn A.F. (2012) Models of passive and active dendrite motoneuron pools and their differences in muscle force control. **Journal of Computational Neuroscience**, 33(3): 515-531. <a href="http://dx.doi.org/10.1007/s10827-012-0398-4" target="_blank">[doi]</a>
 
 # License
-This software is licensed under the [GNU License v3](license).
+This software is licensed under the [GNU License v3](LICENSE).
